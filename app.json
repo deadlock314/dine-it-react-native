@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "dine-it-react-native",
+    "slug": "dine-it-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
